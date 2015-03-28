@@ -1,0 +1,2 @@
+# Notepad
+Simple mini Notepad
